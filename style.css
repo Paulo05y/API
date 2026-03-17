@@ -6,7 +6,7 @@
 }
 
 body{
-  background:#168f61;
+  background:#00180f;
   color:white;
   padding:15px;
 }
@@ -48,7 +48,7 @@ h1{
 }
 
 .card{
-  background:#1e1e1ed8;
+  background:#24970daf;
   border-radius:12px;
   padding:10px;
   display:flex;
